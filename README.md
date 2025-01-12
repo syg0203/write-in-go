@@ -1,6 +1,6 @@
 # write-in-go
 
-1. print 및 코드 실행 방법
+1. [print 및 코드 실행 방법]([https://github.com/syg0203/write-in-go/blob/main/1.%20hello.go])
 2. 변수와 자료형
 3. fmt 패키지
 4. 함수
